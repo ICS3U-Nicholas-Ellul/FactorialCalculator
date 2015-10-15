@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Nicholas  Ellul
+ * Created on: 15-Oct-2015
+ * Created for: ICS3U
+ * Daily Assignment – Unit 3-10
+ * This program calculates factorials 
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
